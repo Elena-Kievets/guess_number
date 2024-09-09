@@ -6,7 +6,7 @@ from random import randint
 
 number = randint(1, 100)
 print('Угадайте число от 1 до 100')
-
+#push from github
 def main():
     while True:
         # Получаем число от пользователя и сохраняем его в переменную.
